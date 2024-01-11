@@ -25,12 +25,23 @@
     </li>
     <li>
         <h2>Problem Solving :jigsaw:</h2>
+        <ul>
+            <li><p><strong>Algorithmic Thinking:</strong>   Capable of breaking down complex problems into small achievable goals.</p></li>
+            <li><p><strong>Innovative:</strong>  Always on constant learning and searching diffent and better ways to solve problems.</p></li>
+        </ul>
     </li>
     <li>
         <h2>Time Management :hourglass:</h2>
+        <ul>
+            <li><p><strong>Organized:</strong>   Efficiently manage time and prioritize tasks to meet deadlines.</p></li>
+            <li><p><strong>Honesty:</strong>  Always communicating with anticipation if a problem appears and delay production.</p></li>
+        </ul>
     </li>
     <li>
         <h2>Self-Taught :mag_right:</h2>
+        <ul>
+            <li><p><strong>Constant Learning:</strong>   Always looking to learn new skills but not only technologies to develop myself.</p></li>
+        </ul>
     </li>
 </ol>
 
