@@ -10,6 +10,10 @@
 <h1 align="center">Skills :toolbox:</h1> 
 <ul>
     <li><h2>Communication :speech_balloon:</h2></li>
+    <li><h2>Teamwork :handshake:</h2></li>
+    <li><h2>Problem Solving :jigsaw:</h2></li>
+    <li><h2>Time Management :hourglass:</h2></li>
+    <li><h2>Self-Taught :mag_right:</h2></li>
 </ul>
 
 > You can check my `LinkedIn` [here](https://www.linkedin.com/in/francisco-arnoldo/)
