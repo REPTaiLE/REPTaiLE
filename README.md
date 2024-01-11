@@ -50,6 +50,6 @@
 
 <h1 align="center">Contact :mailbox_with_no_mail:</h1> 
 <p align="center">
-    <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="My Skills" />
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
 ![Footer](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/4deaf28e-74e5-4aba-9890-badd301507a8)
