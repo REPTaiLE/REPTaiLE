@@ -4,7 +4,7 @@
 <h1 align="center">Tech Stack :computer:</h1> 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light" alt="My Skills" />
 </p>
 
 > You can check my `LinkedIn` [here](https://www.linkedin.com/in/francisco-arnoldo/)
