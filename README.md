@@ -9,7 +9,7 @@
 
 <h1 align="center">Skills :toolbox:</h1> 
 <ul>
-    <li>Communication :speech_balloon:</li>
+    <li><h2>Communication :speech_balloon:</h2></li>
 </ul>
 
 > You can check my `LinkedIn` [here](https://www.linkedin.com/in/francisco-arnoldo/)
