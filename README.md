@@ -7,5 +7,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light" alt="My Skills" />
 </p>
 
+<h1 align="center">Skills :toolbox:</h1> 
+
 > You can check my `LinkedIn` [here](https://www.linkedin.com/in/francisco-arnoldo/)
 ![Footer](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/4deaf28e-74e5-4aba-9890-badd301507a8)
