@@ -2,7 +2,8 @@
 <p align="center">I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</p>
 
 <h1 align="center">Tech Stack :computer:</h1> 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 > You can check my `LinkedIn` [here](https://www.linkedin.com/in/francisco-arnoldo/)
 ![Footer](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/4deaf28e-74e5-4aba-9890-badd301507a8)
