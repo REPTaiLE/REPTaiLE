@@ -18,8 +18,10 @@
     </li>
     <li>
         <h2>Teamwork :handshake:</h2>
-        <li><p><strong>Collaboratibe:</strong>  Enjoy working in a team environment, learning new technologies and contributing to shared goals.</p></li>
-        <li><p><strong>Active Listener:</strong>  Valuing different perspectives, and ensuring the best option to solve problems.</p></li>
+        <ul>
+            <li><p><strong>Collaboratibe:</strong>  Enjoy working in a team environment, learning new technologies and contributing to shared goals.</p></li>
+            <li><p><strong>Active Listener:</strong>  Valuing different perspectives, and ensuring the best option to solve problems.</p></li>
+        </ul>
     </li>
     <li>
         <h2>Problem Solving :jigsaw:</h2>
