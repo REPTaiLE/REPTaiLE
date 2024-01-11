@@ -8,13 +8,26 @@
 </p>
 
 <h1 align="center">Skills :toolbox:</h1> 
-<ul>
-    <li><h2>Communication :speech_balloon:</h2></li>
-    <li><h2>Teamwork :handshake:</h2></li>
-    <li><h2>Problem Solving :jigsaw:</h2></li>
-    <li><h2>Time Management :hourglass:</h2></li>
-    <li><h2>Self-Taught :mag_right:</h2></li>
-</ul>
+<ol>
+    <li>
+        <h2>Communication :speech_balloon:</h2>
+        <ul>
+            <li><<p><strong>Clear Communicator:</strong>  Able to convey complex ideas in a simple and understandable manner.</p></li>
+        </ul>
+    </li>
+    <li>
+        <h2>Teamwork :handshake:</h2>
+    </li>
+    <li>
+        <h2>Problem Solving :jigsaw:</h2>
+    </li>
+    <li>
+        <h2>Time Management :hourglass:</h2>
+    </li>
+    <li>
+        <h2>Self-Taught :mag_right:</h2>
+    </li>
+</ol>
 
 > You can check my `LinkedIn` [here](https://www.linkedin.com/in/francisco-arnoldo/)
 ![Footer](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/4deaf28e-74e5-4aba-9890-badd301507a8)
