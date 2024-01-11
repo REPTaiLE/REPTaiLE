@@ -12,7 +12,8 @@
     <li>
         <h2>Communication :speech_balloon:</h2>
         <ul>
-            <li><p><strong>Clear Communicator:</strong>  Able to convey complex ideas in a simple and understandable manner.</p></li>
+            <li><p><strong>Clear Communicator:</strong>  Able to explain complex ideas in a simple and understandable manner and for everyone.</p></li>
+            <li><p><strong>Active Listener:</strong>  Valuing different perspectives, and ensuring the best option to solve problems.</p></li>
         </ul>
     </li>
     <li>
