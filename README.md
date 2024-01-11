@@ -8,9 +8,9 @@
 </p>
 
 <h1 align="center">Skills :toolbox:</h1> 
-<li>
-    <ul>Communication :speech_balloon:</ul>
-</li>
+<ul>
+    <li>Communication :speech_balloon:</li>
+</ul>
 
 > You can check my `LinkedIn` [here](https://www.linkedin.com/in/francisco-arnoldo/)
 ![Footer](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/4deaf28e-74e5-4aba-9890-badd301507a8)
