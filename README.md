@@ -57,9 +57,10 @@
   <a href="mailto:gonzalezferradafrancisco@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
+  <a href="https://yourworkspace.slack.com/team/U0689TUBM45" target="_blank">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
+  </a>
 </p>
-<a href="https://yourworkspace.slack.com/team/U0689TUBM45" target="_blank">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
-</a>
+
 
 ![Footer](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/4deaf28e-74e5-4aba-9890-badd301507a8)
