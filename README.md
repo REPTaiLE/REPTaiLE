@@ -3,7 +3,11 @@
 
 <h1 align="center">Tech Stack :computer:</h1> 
 
-<i align="center">[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)</i>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" alt="My Skills" />
+  </a>
+</p>
 
 > You can check my `LinkedIn` [here](https://www.linkedin.com/in/francisco-arnoldo/)
 ![Footer](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/4deaf28e-74e5-4aba-9890-badd301507a8)
