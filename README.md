@@ -11,8 +11,7 @@
     
 </p>
 
-
-
+<br>
 
 <h1 align="center">Tech Stack :computer:</h1> 
 
