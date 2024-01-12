@@ -1,6 +1,13 @@
 ![Header](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/1b9445e6-d18a-4207-99e0-f424f0da5003)
 <p align="center">I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey! <img src="https://github.com/REPTaiLE/REPTaiLE/assets/56081472/36d2b1cb-e18b-4553-8e93-30e37c927460" alt="REPTaiLE"></p> 
 
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="text-align: center;">
+        <p>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join my journey!</p>
+        <img src="https://github.com/REPTaiLE/REPTaiLE/blob/main/assets/56081472/36d2b1cb-e18b-4553-8e93-30e37c927460" alt="REPTaiLE">
+    </div>
+</div>
+
 <br>
 
 <h1 align="center">Tech Stack :computer:</h1> 
