@@ -11,6 +11,10 @@
 
 <br>
 
+<h1 align="center">Stats :bar_chart:</h1>
+
+<br>
+
 <h1 align="center">Skills :toolbox:</h1> 
 
 <ol>
