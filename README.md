@@ -4,7 +4,7 @@
     <p>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</p>
     <ul>
         <li>Passionate about technology and optimistic about the singularity in the future</li>
-        <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
+        <li>Constant self-learner about tech and life! </li>
         <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
         <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
         <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
