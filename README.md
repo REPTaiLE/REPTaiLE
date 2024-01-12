@@ -3,6 +3,11 @@
     <img align="right" src="https://github.com/REPTaiLE/REPTaiLE/assets/56081472/36d2b1cb-e18b-4553-8e93-30e37c927460" alt="REPTaiLE">
     <ul>
         <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
+        <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
+        <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
+        <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
+        <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
+        <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
     </ul>
 </p> 
 
