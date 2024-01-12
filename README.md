@@ -57,9 +57,6 @@
   <a href="mailto:gonzalezferradafrancisco@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://yourworkspace.slack.com/team/U0689TUBM45" target="_blank">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
-  </a>
 </p>
 
 
