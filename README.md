@@ -14,7 +14,8 @@
 </p>
 
 
-<br>
+<br>![brain](https://github.com/REPTaiLE/REPTaiLE/assets/56081472/c7b8c91b-bd2d-4fc0-9564-aad94d5f3a2c)
+
 
 <h1 align="center">Tech Stack :computer:</h1> 
 
