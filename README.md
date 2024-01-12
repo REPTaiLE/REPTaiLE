@@ -4,13 +4,13 @@
     <p>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</p>
     <ul>
         <li>Passionate about technology and optimistic about the singularity in the future</li>
-        <li>Constant self-learner about tech and life! </li>
+        <li>Constant self-learner about tech and life! <img align="right" src="https://github.com/REPTaiLE/REPTaiLE/assets/56081472/cdf2ee5f-22f1-45c3-9823-c5af5c6c14e0" width="100px" height="130px" alt="Brain"></li>
         <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
         <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
         <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
         <li>I'm in constant learning and I want to involve in <code>Machine Learning</code> in the future, so join to my journey!</li>
     </ul>
-    <img align="right" src="https://github.com/REPTaiLE/REPTaiLE/assets/56081472/cdf2ee5f-22f1-45c3-9823-c5af5c6c14e0" width="100px" height="130px" alt="Brain">
+    
 </p>
 
 
