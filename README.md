@@ -3,10 +3,10 @@
     <img align="right" src="https://github.com/REPTaiLE/REPTaiLE/assets/56081472/36d2b1cb-e18b-4553-8e93-30e37c927460" width="150px" height="180px" alt="REPTaiLE">
     <p>Hi!, I'm Francisco and I want to involve in <code>Machine Learning</code> in the future, so join into my journey being documented!</p>
     <ul>
-        <li>Passionate about technology and optimistic about the singularity in the future :fast_forward:</li>
+        <li>Passionate about technology and optimistic about the singularity in the future. :fast_forward:</li>
         <li>Constant self-learner about tech and life! :books:</li>
-        <li>Healthy lifestyle and practice soccer :broccoli: :soccer:</li>
-        <li>Competitive mindset :mechanical_arm:</li>
+        <li>Healthy lifestyle and practice soccer. :broccoli: :soccer:</li>
+        <li>Competitive mindset. :mechanical_arm:</li>
     </ul>
     
 </p>
