@@ -28,6 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=REPTaiLE&show_icons=true&theme=codeSTACKr" alt="Anurag's GitHub stats">
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+
 <br>
 
 <h1 align="center">Skills :toolbox:</h1> 
