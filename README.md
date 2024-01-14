@@ -20,6 +20,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light" alt="My Skills" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <h1 align="center">Stats :bar_chart:</h1> 
@@ -29,7 +31,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=REPTaiLE&show_icons=true&theme=codeSTACKr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Francisco's Github stats">
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=REPTaiLE&repo=github-readme-stats)](https://github.com/REPTaiLE/github-readme-stats)
 
 <br>
 
