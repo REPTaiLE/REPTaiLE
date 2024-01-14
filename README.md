@@ -24,14 +24,10 @@
 
 <h1 align="center">Stats :bar_chart:</h1> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REPTaiLE&show_icons=true&theme=codeSTACKr" alt="Anurag's GitHub stats">
-</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=REPTaiLE&show_icons=true&theme=codeSTACKr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Francisco's Github stats">
 </div>
-
 
 
 <br>
