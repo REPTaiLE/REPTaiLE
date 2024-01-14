@@ -28,7 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=REPTaiLE&show_icons=true&theme=codeSTACKr" alt="Anurag's GitHub stats">
 </div>
 
-
 <br>
 
 <h1 align="center">Skills :toolbox:</h1> 
