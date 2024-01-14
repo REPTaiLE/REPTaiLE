@@ -20,7 +20,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light" alt="My Skills" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPTaiLE&layout=donut-vertical">
+</div>
 
 <br>
 
