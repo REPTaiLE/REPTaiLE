@@ -24,7 +24,9 @@
 
 <h1 align="center">Stats :bar_chart:</h1> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REPTaiLE&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</div>
 
 
 <br>
