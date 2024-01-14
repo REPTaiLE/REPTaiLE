@@ -29,6 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=REPTaiLE&show_icons=true&theme=codeSTACKr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Francisco's Github stats">
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
