@@ -38,7 +38,7 @@
 <h1 align="center">Trophies :trophy:</h1> 
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=REPTaiLE&row=2&column=4" alt="Francisco's trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=REPTaiLE&row=2&column=4&theme=algolia" alt="Francisco's trophies">
 </div>
 
 <br>
