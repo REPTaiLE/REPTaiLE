@@ -17,11 +17,11 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light&border_color=#e4e2e2" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light" alt="My Skills" />
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPTaiLE&layout=donut-vertical&theme=codeSTACKr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPTaiLE&layout=donut-vertical&theme=codeSTACKr&border_color=e4e2e2">
 </div>
 
 <br>
