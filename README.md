@@ -29,7 +29,7 @@
 <h1 align="center">Stats :bar_chart:</h1> 
 
 
-<div align="center">
+<div align="center" with="200px">
     <img src="https://github-readme-stats.vercel.app/api?username=REPTaiLE&show_icons=true&theme=codeSTACKr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=FF7800&border_radius=10" alt="Francisco's Github stats">
 </div>
 
