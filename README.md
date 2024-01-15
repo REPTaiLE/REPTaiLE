@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPTaiLE&layout=donut-vertical&theme=codeSTACKr&border_color=e4e2e2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPTaiLE&layout=donut-vertical&theme=codeSTACKr&border_color=FF7800">
 </div>
 
 <br>
