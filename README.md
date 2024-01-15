@@ -37,6 +37,8 @@
 
 <h1 align="center">Trophies :trophy:</h1> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 
 <h1 align="center">Skills :toolbox:</h1> 
