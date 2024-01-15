@@ -84,8 +84,9 @@
 
 <br>
 
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" align="center">
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true">
+</div>
 
 
 <br>
