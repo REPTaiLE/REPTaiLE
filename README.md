@@ -87,7 +87,7 @@
 <h1 align="center">:dizzy: Quote of the momment :dizzy:</h1> 
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true&bg_color=E0851F">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&border=true">
 </div>
 
 
