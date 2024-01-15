@@ -37,7 +37,9 @@
 
 <h1 align="center">Trophies :trophy:</h1> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=REPTaiLE)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=REPTaiLE">
+</div>
 
 <br>
 
