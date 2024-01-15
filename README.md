@@ -17,7 +17,7 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light&border_color=e4e2e2" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,git,figma,wordpress,mysql,nodejs,bash,ps,ai&theme=light&border_color=#e4e2e2" alt="My Skills" />
 </p>
 
 <div align="center">
