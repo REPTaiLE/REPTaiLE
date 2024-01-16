@@ -5,7 +5,7 @@
     <ul>
         <li>Passionate about technology and optimistic about the singularity in the future. :fast_forward:</li>
         <li>Constant self-learner about tech and life! :books:</li>
-        <li>Healthy lifestyle and practice soccer. :broccoli: :soccer:</li>
+        <li>I love healthy lifestyle and practice soccer. :broccoli: :soccer:</li>
         <li>Competitive mindset. :mechanical_arm:</li>
     </ul>
     
